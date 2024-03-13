@@ -15,7 +15,7 @@
 
 🌱 I’m currently learning **Microservices**
 
-👯 I’m looking to collaborate on **Springboot**
+👯 I’m looking to collaborate on **Springboot project**
   
 🎯 Goals: Contribute more projects
 
