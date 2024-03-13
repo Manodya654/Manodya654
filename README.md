@@ -1,8 +1,8 @@
-<h1 align="left">Hi 👋, I'm Manodya</h1>
+<h1 align="center">Hi 👋, I'm Manodya</h1>
 
 ###
 
-<p align="left">A passionate full stack developer from Sri Lanka</p>
+<h2 align="center">A passionate full stack developer from Sri Lanka</h2>
 
 ###
 
@@ -74,7 +74,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">My Social Media</h2>
 
 ###
 
