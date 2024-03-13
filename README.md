@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Manodya</h1>
-<h3 align="center">A passionate full stack developer from Sri Lanka</h3>
+<h1 align="left">Hi 👋, I'm Manodya</h1>
+
+###
+
+<p align="left">A passionate full stack developer from Sri Lanka</p>
 
 ###
 
@@ -67,6 +70,24 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
+</div>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/manodya-paramee-6489a821b" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/manodya_00" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/19858551/manodya-paramee" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
