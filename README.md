@@ -9,19 +9,17 @@
 <h2 align="left">About me</h2>
 
 ###
-- ✨ Creating bugs since 2020
+✨ Creating bugs since 2020
   
-- 🔭 I’m currently working on **C#**
+🔭 I’m currently working on **C#**
 
-- 🌱 I’m currently learning **Microservices**
+🌱 I’m currently learning **Microservices**
 
-- 👯 I’m looking to collaborate on **Springboot**
-
-- ⚡ Fun fact **Coding with Coffee**
+👯 I’m looking to collaborate on **Springboot**
   
-- 🎯 Goals: Contribute more projects
+🎯 Goals: Contribute more projects
 
--  🎲 Fun fact: Coding with Coffee
+⚡ Fun fact **Coding with Coffee**
   
 ###
 
