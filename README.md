@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm Manodya</h1>
+<h1 align="left">Hi 👋, I'm Manodya</h1>
 
 ###
 
-<h2 align="center">A passionate full stack developer from Sri Lanka</h2>
+<p align="left">A passionate full stack developer from Sri Lanka</p>
 
 ###
 
 <h2 align="left">About me</h2>
 
 ###
+
 ✨ Creating bugs since 2020
   
 🔭 I’m currently working on **C#**
@@ -19,8 +20,8 @@
   
 🎯 Goals: Contribute more projects
 
-⚡ Fun fact **Coding with Coffee**
-  
+⚡ Coding 🍿 Coffee
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -30,6 +31,8 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -43,8 +46,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
@@ -79,6 +80,12 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/gimp/5C5543" height="40" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
 ###
@@ -93,6 +100,9 @@
   </a>
   <a href="https://www.instagram.com/manodya_00" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@mayazen2133" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   </a>
   <a href="https://stackoverflow.com/users/19858551/manodya-paramee" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
