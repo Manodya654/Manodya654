@@ -3,9 +3,9 @@
     <h1 align="left">Hi 👋, I'm Manodya</h1>
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" /></a>
   </div>
-  <div>
+<!--   <div>
     <img src="github.gif" width="250px" alt="Your GIF">
-  </div>
+  </div> -->
 </div>
 
 - 🔭 I’m currently working on **Flutter **
