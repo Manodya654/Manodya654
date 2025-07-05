@@ -1,12 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
-    <h1>Hi 👋, I'm Manodya</h1>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" />
-    </a>
+    <h1 align="left">Hi 👋, I'm Manodya</h1>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" /></a>
   </div>
   <div>
-    <img src="github.gif" alt="GIF" width="300"/>
+    <img src="github.gif" width="300px" alt="Your GIF">
   </div>
 </div>
 
