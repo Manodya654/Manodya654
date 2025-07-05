@@ -1,10 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Manodya</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Manodya654&label=Profile%20views&color=0e75b6&style=flat" alt="Manodya654" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Manodya654&theme=" alt="Manodya654" /></a> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on **Flutter **
 - 👯 I’m looking to collaborate on **Spring Boot**
