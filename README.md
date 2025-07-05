@@ -1,16 +1,14 @@
-<table>
-  <tr>
-    <td align="left">
-      <h1>Hi 👋, I'm Manodya</h1>
-      <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="github.gif" alt="GIF" width="200"/>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <h1>Hi 👋, I'm Manodya</h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" />
+    </a>
+  </div>
+  <div>
+    <img src="github.gif" alt="GIF" width="300"/>
+  </div>
+</div>
 
 - 🔭 I’m currently working on **Flutter **
 - 👯 I’m looking to collaborate on **Spring Boot**
