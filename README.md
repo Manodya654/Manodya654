@@ -8,10 +8,6 @@
   </div> -->
 </div>
 
-- 🔭 I’m currently working on Flutter
-- 👯 I’m looking to collaborate on Spring Boot
-- 🌱 I’m currently learning Microservices
-
 - 📫 How to reach me manodyaparamee20@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/manodya-paramee-6489a821b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
