@@ -1,8 +1,9 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div>
     <h1 align="left">Hi 👋, I'm Manodya</h1>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Full+stack+developer" alt="Typing SVG" /></a>
+    <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Software+engineer;" alt="Typing SVG" /></a> -->
   </div>
+  <h3 align="left">Software Engineer | Building Expertise in AI/ML </h3>
 <!--   <div>
     <img src="github.gif" width="250px" alt="Your GIF">
   </div> -->
