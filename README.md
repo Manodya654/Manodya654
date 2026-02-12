@@ -6,9 +6,8 @@
   <h3 align="left">Software Engineer | Building Expertise in AI/ML </h3>
 <!--   <div>
     <img src="github.gif" width="250px" alt="Your GIF">
-  </div> -->
-
-  ![](https://komarev.com/ghpvc/?username=your-github-username)
+  </div>
+![](https://komarev.com/ghpvc/?username=your-github-username) -->
 </div>
 
 - 📫 How to reach me manodyaparamee20@gmail.com
