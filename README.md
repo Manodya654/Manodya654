@@ -9,9 +9,6 @@
   </div> -->
 <!-- ![](https://komarev.com/ghpvc/?username=Manodya654) -->
 </div>
-![](https://komarev.com/ghpvc/?username=Manodya654)
-![GitHub Views](https://komarev.com/ghpvc/?username=Manodya654)
-
 
 - 📫 How to reach me manodyaparamee20@gmail.com
 
