@@ -4,10 +4,10 @@
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Software+engineer;" alt="Typing SVG" /></a> -->
   </div>
   <h3 align="left">Software Engineer | Building Expertise in AI/ML </h3>
-  <div>
+  <!-- <div>
     <img src="github.gif" width="250px" alt="Your GIF">
-  </div>
-![](https://komarev.com/ghpvc/?username=your-github-username)
+  </div> -->
+![](https://komarev.com/ghpvc/?username=Manodya654)
 </div>
 
 - 📫 How to reach me manodyaparamee20@gmail.com
