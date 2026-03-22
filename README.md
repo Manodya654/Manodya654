@@ -8,6 +8,7 @@
     <img src="github.gif" width="250px" alt="Your GIF">
   </div> -->
 <!-- ![](https://komarev.com/ghpvc/?username=Manodya654) -->
+  ![](https://komarev.com/ghpvc/?username=Manodya654)
 </div>
 
 - 📫 How to reach me manodyaparamee20@gmail.com
