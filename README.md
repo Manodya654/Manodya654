@@ -9,8 +9,7 @@
   </div> -->
 <!-- ![](https://komarev.com/ghpvc/?username=Manodya654) -->
 </div>
-
-- 📫 How to reach me manodyaparamee20@gmail.com
+📫 How to reach me manodyaparamee20@gmail.com
 
 <div> <a href="https://www.linkedin.com/in/manodya-paramee-6489a821b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
