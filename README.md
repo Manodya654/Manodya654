@@ -1,4 +1,5 @@
 <div style="display: flex; justify-content: space-between; align-items: center;">
+  ![](https://komarev.com/ghpvc/?username=Manodya654&label=PROFILE+VIEWS)
   <div>
     <h1 align="left">Hi 👋, I'm Manodya</h1>
     <!-- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Undergraduate;Software+engineer;" alt="Typing SVG" /></a> -->
@@ -9,7 +10,6 @@
   </div> -->
 <!-- ![](https://komarev.com/ghpvc/?username=Manodya654) -->
 </div>
-![](https://komarev.com/ghpvc/?username=Manodya654)
 
 📫 How to reach me manodyaparamee20@gmail.com
 
