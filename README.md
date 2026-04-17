@@ -1,7 +1,6 @@
-# Hi 👋, I'm Manodya
-<br>
-  <h3 align="left">Software Engineer | Building Expertise in AI/ML </h3>
+<h1 align="left">Hi 👋, I'm Manodya</h1>
 
+<h3 align="left">Software Engineer | Building Expertise in AI/ML </h3>
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manodya-paramee-6489a821b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@manodyaparamee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manodyaparamee20@gmail.com) 
