@@ -1,11 +1,6 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Manodya Paramee</h1>
 <h3 align="center">Software Engineer | Building Expertise in AI/ML</h3>
 
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Manodya654">
-    <img src="https://komarev.com/ghpvc/?username=Manodya654&label=Profile%20views&color=00FFFF&style=flat-square" alt="Manodya654's profile views" />
-  </a>
-</p>
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
