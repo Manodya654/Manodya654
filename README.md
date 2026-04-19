@@ -1,12 +1,12 @@
-<h2 align="left">Hi 👋, I'm Manodya</h2>
+<h1 align="left">Hi 👋, I'm Manodya</h1>
 
 ###
 
-<h4 align="left">Software Engineer | Building Expertise in AI/ML</h4>
+<h3 align="left">Software Engineer | Building Expertise in AI/ML</h3>
 
 ###
 
-<p align="left">📫 How to reach me: manodyaparamee20@gmail.com</p>
+<h4 align="left">📫 How to reach me: manodyaparamee20@gmail.com</h4>
 
 ###
 
