@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">📫 **How to reach me:** manodyaparamee20@gmail.com</p>
+<p align="left">📫 How to reach me: manodyaparamee20@gmail.com</p>
 
 ###
 
